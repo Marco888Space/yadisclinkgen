@@ -14,4 +14,4 @@ or
 ```
 python yadisclinkgen.py -t
 ```
-3. Direct file links stored in output.txt
+3. Direct file links stored in **output.txt**
